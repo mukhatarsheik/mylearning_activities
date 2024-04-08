@@ -1,0 +1,2 @@
+dup val is 1 and fd is 3
+hi bye
